@@ -1,0 +1,13 @@
+input your data ike given manner
+
+Abc,B,C,D,E,F<<<------------first line is set of items
+T1,B,C
+T2,D,B,E,F
+T3,E,D,F,B
+T4,C,D,F,Abc<<<-------------first name is costumers uniq id and after all items 
+T5,B,C,E,F
+T6,B,D,E
+T7,B,C,D,E,F
+T8,F,D,C,B
+T9,C,F,Abc,B
+T10,F,C,Abc,E
