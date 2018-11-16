@@ -1,3 +1,4 @@
+#in order to learn data mining with python
 import tweepy
 from textblob import TextBlob as tb 
 
